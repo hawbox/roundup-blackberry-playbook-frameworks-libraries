@@ -1,2 +1,2 @@
-# roundup-blackberry-playbook-frameworks-libraries
-Roundup of frameworks and libraries for BlackBerry PlayBook Development.
+# Roundup Blackberry Playbook Frameworks and Libraries
+## BlackBerry WebWorks Frameworks and Libraries
